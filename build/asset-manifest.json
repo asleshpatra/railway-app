@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/railway-app/static/css/main.2e662a65.css",
+    "main.js": "/railway-app/static/js/main.e82bd437.js",
+    "index.html": "/railway-app/index.html",
+    "main.2e662a65.css.map": "/railway-app/static/css/main.2e662a65.css.map",
+    "main.e82bd437.js.map": "/railway-app/static/js/main.e82bd437.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e662a65.css",
+    "static/js/main.e82bd437.js"
+  ]
+}
